@@ -1,6 +1,6 @@
 # Call Center Trends Analysis
 
-<img width="977" height="548" alt="image" src="https://github.com/user-attachments/assets/994e7894-8609-4de9-9232-2d229cdee1c2" />
+<img width="1063" height="597" alt="image" src="https://github.com/user-attachments/assets/1d9345b4-a291-4d54-bbea-e1cd1de77d6d" />
 
 
 # Introduction
@@ -67,13 +67,15 @@ Out of a total of 5,000 calls received during the calendar year, the highest vol
 ## Average speed of answering calls
 The average speed of answering calls stands at 67.52 seconds, which reflects the typical wait time customers experience before being connected to an agent. While this may be acceptable in some cases, it could also contribute to the 18.92% call abandonment rate observed.
 
-![image](https://github.com/user-attachments/assets/c76c72e6-d914-4955-8947-06a078542be2)
+<img width="880" height="121" alt="image" src="https://github.com/user-attachments/assets/88313a17-0c99-4fd1-9592-89b0b1fc18cc" />
+
 ## Call center Agent’s performance quadrant
 The performance matrix highlights individual agent metrics across key areas during the calendar year. Jim led in both call volume and resolution, handling 536 calls (13.22%) and resolving 485 (13.30%)—the highest among all agents. In contrast, Stewart recorded the lowest in both categories, with 477 calls answered (11.77%) and 424 resolved (11.63%).
 While Jim excelled in volume, Martha achieved the highest customer satisfaction score at 3.47, outperforming Joe, who scored the lowest at 3.33. In terms of responsiveness, Becky was the fastest, averaging 65.33 seconds per call, while Joe had the slowest response time at 70.99 seconds.
 This quadrant reveals varying strengths across agents, offering actionable insights for targeted training and performance optimization.
 
-![image](https://github.com/user-attachments/assets/01302901-42e7-436f-8d17-d73f5b732591)
+<img width="586" height="240" alt="image" src="https://github.com/user-attachments/assets/383f64dc-6d07-431c-bb11-e11546a82df7" />
+
 # Conclusion and Recommendation
 These are five actionable suggestions for the Management Team based on the call center data analysis to improve KPIs and boost customer satisfaction:
 - **Reduce Call Abandonment through Improved Staffing:**
