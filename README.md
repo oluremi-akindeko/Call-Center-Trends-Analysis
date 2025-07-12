@@ -1,6 +1,7 @@
 # Call Center Trends Analysis
 
-<img width="1025" height="577" alt="image" src="https://github.com/user-attachments/assets/6fc09bb6-a2fe-481b-bab5-61c46cc7e9d9" />
+<img width="1025" height="577" alt="image" src="https://github.com/user-attachments/assets/a666c2d5-7e40-4262-8a74-e0df21c198ec" />
+
 
 
 # Introduction
