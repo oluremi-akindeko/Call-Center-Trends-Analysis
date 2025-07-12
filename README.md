@@ -1,7 +1,6 @@
 # Call Center Trends Analysis
 
-<img width="1025" height="577" alt="image" src="https://github.com/user-attachments/assets/a666c2d5-7e40-4262-8a74-e0df21c198ec" />
-
+<img width="977" height="548" alt="image" src="https://github.com/user-attachments/assets/994e7894-8609-4de9-9232-2d229cdee1c2" />
 
 
 # Introduction
@@ -31,6 +30,7 @@ The dataset was initially not ready for analysis and required thorough cleaning 
 - Changing Data Types
 - Added conditional column for call status
 ![image](https://github.com/user-attachments/assets/4f8e1da2-96f3-4ed7-997c-d05b89c0fbc2)
+
 The highlighted column represents the newly created column. You may also review the applied steps pane for a detailed breakdown of the transformation process.
 - Reordered column
 - Added conditional column for resolution status
